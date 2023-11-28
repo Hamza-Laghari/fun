@@ -5,9 +5,10 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Yay! See you tonight!";
-  gif.src =
-    "https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif";
+  question.innerHTML = "Yay, I love you more!!";
+  gif.src = " https://media.giphy.com/media/cCOVfFwDI3awdse5A3/giphy.gif "
+  question.style.color = "#ebe534";  
+  question.style.fontSize = "35px";
 });
 
 noBtn.addEventListener("mouseover", () => {
