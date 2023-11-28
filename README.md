@@ -1,2 +1,2 @@
 # Tried something fun 
-fun-message.netlify.app
+: fun-message.netlify.app
