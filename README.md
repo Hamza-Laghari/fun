@@ -1,2 +1,2 @@
 # Tried something fun 
-Here is the link:  https://fun-message.netlify.app
+Here is the link: https://cute-message.netlify.app/
