@@ -1,2 +1,2 @@
-# Tried something fun :p 
-# Here's the link :  fun-message.netlify.app
+# Tried something fun 
+fun-message.netlify.app
